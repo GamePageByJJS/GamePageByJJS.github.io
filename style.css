@@ -1,0 +1,34 @@
+body {
+    margin:0;
+    padding:0;
+    height:100%;
+}
+
+#diceGame {
+    display: block;
+    position: absolute;
+    width: 230px;
+    border: 2px solid black;
+}
+
+.gameList {
+    padding: 200px;
+
+}
+
+h1 {
+    font-size: 35px;
+    padding-bottom: 70px;
+    text-align: center;
+}
+
+.footer {
+    clear: both;
+    text-align: center;
+    background-color: white;
+    background-color: darksalmon;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+    height: 50px;
+}
